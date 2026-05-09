@@ -96,4 +96,3 @@ utilizando distintas tecnologías de almacenamiento y análisis.
 
 
 
-Mariel Huerta
