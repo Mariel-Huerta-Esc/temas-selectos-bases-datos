@@ -94,10 +94,6 @@ utilizando distintas tecnologías de almacenamiento y análisis.
 - plotly
 - statsmodels
 
-## Profesora
 
-Magali Alexander López Chavira
-
-## Alumna
 
 Mariel Huerta
