@@ -20,3 +20,6 @@ def contar_consonantes(texto):
             contador += 1
             
     return contador 
+#con len se evita el for y con strip 
+
+
