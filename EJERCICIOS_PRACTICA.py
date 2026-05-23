@@ -17,4 +17,6 @@ print(alumnos)
 
 #añadir nuevo elemento
 alumnos["Karla"] = 7.8
-print(alumnos)
+print(alumnos) 
+
+recorrer = map(lambda n: n +0 for alumnos)
