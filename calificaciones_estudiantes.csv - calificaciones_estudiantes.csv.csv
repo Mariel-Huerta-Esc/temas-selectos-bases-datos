@@ -1,0 +1,8 @@
+id_calif,estudiante_id,materia,calificacion,id_est,nombre,carrera
+1,1,Estadística,85,1,Ana,Economía
+2,1,Econometría,90,1,Ana,Economía
+3,2,Teoría Política,78,2,Luis,Ciencia Política
+4,2,Estadística,82,2,Luis,Ciencia Política
+5,3,Economía I,88,3,Sofía,Economía
+6,3,Estadística,91,3,Sofía,Economía
+7,4,Derecho Internacional,75,4,Carlos,Relaciones Internacionales
